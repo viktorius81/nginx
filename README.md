@@ -1,3 +1,46 @@
 # Welcome to online grocery shop project
 **Version 1.0**
-***Our project is created help people find neccessary products they need*** 
+
+***Our project is created help people to find neccessary products they need using our plugin***
+
+## Brief instruction how to install our plugin into known CMS
+
+1. Download plugin from our [website](http://plugin_for_grocerystore.com).
+2. Install plugin using coorresponding CMS(for example Joomla).
+3. Choose ***plugin section*** in order to set up our module.
+4. Enjoy.
+
+##### HERE IS SOME CODE EXAMPLE 
+```
+def find_duplicate(myList):
+    occurrences = []
+    for item in myList :
+        count = 0
+        for x in myList :
+            if x == item :
+                count += 1
+        occurrences.append(count)
+        print(occurrences)
+    duplicates =[]
+    index = 0
+    while index < len(myList) :
+        if occurrences[index] != 1:
+            duplicates.append(myList[index])
+        index += 1
+    result_list = []
+    for k in duplicates:
+        if k not in result_list:
+            result_list.append(k)
+    return result_list
+print(find_duplicate(myList))
+
+```
+
+You can donate us:
+* BTC
+* PayPal
+* VISA
+* MasterCard
+
+You can ask any questions via our Telegram channel [grocery store plugin]((http://t.me/grocery_store_plugin). 
+ 
