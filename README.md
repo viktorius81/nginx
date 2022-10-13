@@ -1,7 +1,15 @@
 # ![Logo](reactstrap.png) Welcome to online grocery shop project                                                                                                          
-**Version 1.0**
+**Version 3.0**
 
 ***Our project is created help people to find neccessary products they need using our plugin***
+
+**Some information about previous product's versions**
+
+| Version  | Description |
+| ------------- | ------------- |
+| 1.0  | Initial   |
+| 2.0  | Added some functionallity |
+
 
 ## Brief instruction how to install our plugin into known CMS
 
@@ -46,3 +54,4 @@ KEEP IN TOUCH WITH US
 > - [Our Telegram Channel](http://t.me/grocery_plugin)
 > - [Email](mailto:mail@plugin_for_grocerystore.com)
  
+###### © 2022 All rights reserved
