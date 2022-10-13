@@ -42,6 +42,7 @@ You can donate us:
 * VISA
 * MasterCard
 
-KEEP IN TOUCH 
->[Our Telegram Channel](http://t.me/grocery_plugin). 
+KEEP IN TOUCH WITH US 
+> - [Our Telegram Channel](http://t.me/grocery_plugin)
+> - [Email](mailto:mail@plugin_for_grocerystore.com)
  
