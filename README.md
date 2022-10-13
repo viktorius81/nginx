@@ -1,4 +1,4 @@
-# Welcome to online grocery shop project                                                                    
+# Welcome to online grocery shop project                                   ![Logo](artworks-000148106472-4vyv9q-t500x500.jpg)                                                                  
 **Version 1.0**
 
 ***Our project is created help people to find neccessary products they need using our plugin***
