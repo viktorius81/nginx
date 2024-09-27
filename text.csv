@@ -1,0 +1,5 @@
+#group,false,false,true,true,false,false,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string
+#default,_result,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,host,region
+,,0,2022-12-31T05:41:24Z,2023-01-31T05:41:24.001Z,2023-01-01T00:00:00Z,15.43,mem,m,A,east
